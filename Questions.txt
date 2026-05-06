@@ -1,0 +1,4 @@
+difference between python language and python implementation
+explain the execution line python code - Cpython - Python Bytecode - Python Virtual Machine - Machine Code
+Eplain the use of triple quotes in strings
+If we collect input as strings, how do we covert it to other data types or collect other data types

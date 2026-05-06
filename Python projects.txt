@@ -1,0 +1,14 @@
+Custom programming language (Pulse)
+Custom scripting language
+Game simulation Engine
+Music sequencer (Logic Only)
+File ased Save system
+Machine Learning Model
+NLP
+Music analyst
+Music intelligence & benchmarking system (HIVE (Hit Intelligence & Validation Engine) Engine){
+	Music Bench Marking Enging
+	Hit Song Analysis Engine
+	Creatiive Feedback Engine
+	Audio Intlligence Engine
+}
