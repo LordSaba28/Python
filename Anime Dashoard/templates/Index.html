@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>My Anime Dashboard</title>
+</head>
+
+<body>
+    <h1>🎬 My Anime List</h1>
+
+    <ul>
+        {% for video in videos %}
+        <li>
+            <a href="/video/{{ video }}">{{ video }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+
+</body>
+
+</html>
